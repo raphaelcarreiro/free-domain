@@ -99,8 +99,10 @@ body {
   position: fixed;
   z-index: 2;
   top: 10vh;
+  bottom: 10vh;
   right: 10vw;
   padding: 10px 40px;
+  border-radius: 16px;
   box-shadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
 }
 
