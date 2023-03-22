@@ -12,7 +12,9 @@
   transition: all ease-in 0.4s;
 }
 
-button {
+a {
+  font-size: 10pt;
+  text-decoration: none;
   cursor: pointer;
   transition: all ease-in-out 0.4s;
   border: none;
@@ -23,8 +25,8 @@ button {
   background-color: rgb(255, 166, 0);
 }
 
-button:hover,
-button:active {
+a:hover,
+a:active {
   background-color: rgb(192, 126, 3);
 }
 
